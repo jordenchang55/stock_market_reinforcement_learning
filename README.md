@@ -11,11 +11,12 @@ In fact, the purpose of this project is not only providing a best RL solution fo
 
 ## Requirements
 
-- Python2.7 or higher
+- Python3.5 or higher
 - Numpy
 - HDF5
 - Keras with Beckend (Theano or/and Tensorflow)
 - OpenAI Gym
+- stable-baselines (Check pre-requirements on their [README](https://github.com/hill-a/stable-baselines))
 
 ## Usage
 
